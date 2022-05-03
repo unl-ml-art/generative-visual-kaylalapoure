@@ -15,11 +15,16 @@ To make this project I will feed the first few sentences in chunks to produce fi
 
 I used BigGAN, a text-to-image synthesis. 
 I changed the prompts to small chunks of each creation story. I predominantly used the beginnings of each creation story. Here are the chunks of each creation story that I used:
+
 Christianity: 1 In the beginning, when God created the universe,[a] 2 the earth was formless and desolate. The raging ocean that covered everything was engulfed in total darkness, and the Spirit of God[b] was moving over the water. 3 Then God commanded, “Let there be light”—and light appeared. 4 God was pleased with what he saw. Then he separated the light from the darkness, [Genesis 1:1-4]
+
 Islam: “It is He Who has created you from dust then from a sperm-drop, then from a leech-like clot; then does he get you out (into the light) as a child: then lets you (grow and) reach your age of full strength; then lets you become old,- though of you there are some who die before;- and lets you reach a term appointed; in order that you may learn wisdom.” [40:67]
+
 Taoism: In the beginning of time, there was only chaos. The elements and gasses of the heavens and earth freely mingled, and the organizing principle was dormant. It lay dormant somewhere inside this elemental cosmos, awaiting the right moment to begin the transformation. The shape of this primeval mass was something like an egg.
 For 18,000 years the universe remained in this state, until the incubation was finally complete, and the egg hatched. Then the heavens and the earth came into existence. The lighter, most pure substances floated upward and became the heavens. These elements were named yang. The heavier, more impure substances descended and became the earth. These were named yin.
+
 Ute Creation Story: The Utes trace their origin to Sinauf, a god who is half man, half wolf. Along with his brothers, Coyote and Wolf, Sinauf kept the world in balance. In preparation for a long journey, Sinauf made a magical bag that he filled with sticks. All the sticks were different, and when placed in the bag they became people. As Sinauf put more sticks in the bag, the people became noisy. Sinauf’s brother Coyote grew curious from the noise, so he cut a little hole in the bag with his flint knife and peeked in. He laughed at the strange new creations and their many songs and languages. 
+
 Babylonian Creation Story: Before anything had a name, before there was firm ground or sky or the sun and moon there was Apsu, the sweet water sea and Tiamat, the salt water sea. When these two seas mingled, they created the gods Lahmu and Lahamu, who rose from the silt at the edge of the water. When Lahmu and Lahamu joined, they created the great gods Anshar, Kishar and Anu. From this generation of gods there arose mighty Ea and his many brothers.
 Each text block was broken down into logical breaks in the sentences.
 
