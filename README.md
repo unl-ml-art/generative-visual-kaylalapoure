@@ -21,8 +21,7 @@ Taoism: In the beginning of time, there was only chaos. The elements and gasses 
 For 18,000 years the universe remained in this state, until the incubation was finally complete, and the egg hatched. Then the heavens and the earth came into existence. The lighter, most pure substances floated upward and became the heavens. These elements were named yang. The heavier, more impure substances descended and became the earth. These were named yin.
 Ute Creation Story: The Utes trace their origin to Sinauf, a god who is half man, half wolf. Along with his brothers, Coyote and Wolf, Sinauf kept the world in balance. In preparation for a long journey, Sinauf made a magical bag that he filled with sticks. All the sticks were different, and when placed in the bag they became people. As Sinauf put more sticks in the bag, the people became noisy. Sinauf’s brother Coyote grew curious from the noise, so he cut a little hole in the bag with his flint knife and peeked in. He laughed at the strange new creations and their many songs and languages. 
 Babylonian Creation Story: Before anything had a name, before there was firm ground or sky or the sun and moon there was Apsu, the sweet water sea and Tiamat, the salt water sea. When these two seas mingled, they created the gods Lahmu and Lahamu, who rose from the silt at the edge of the water. When Lahmu and Lahamu joined, they created the great gods Anshar, Kishar and Anu. From this generation of gods there arose mighty Ea and his many brothers.
-Each text block was broken down into logical breaks in the sentences
-![cv1](https://user-images.githubusercontent.com/78117204/166502954-423cae31-b363-4a89-a1ed-948b72e067ac.jpg)
+Each text block was broken down into logical breaks in the sentences.
 
 ## Code
 
@@ -33,6 +32,29 @@ It also is included in the files
 
 I included the images digitally and what specific code that generated them. As mentioned, I chose to use the beginnings of Christianity, Islam, Taoism, The Ute’s creation story, and Babylonian creation stories. 
 There’s a lot of similarities with circles early in the story that then progresses into something different, which in some sense is the essence of a lot of these stories. 
+
+First Photo for Christianity:
+
+![cv1](https://user-images.githubusercontent.com/78117204/166503270-372396fd-a50c-4f70-a8eb-f80b299f0d55.jpg)
+
+First Photo for Islam:
+
+![iv1](https://user-images.githubusercontent.com/78117204/166503340-17095e6a-4aed-4757-a0ba-dfbceb49720a.jpg)
+
+
+First Photo for Taoism:
+
+![ti2](https://user-images.githubusercontent.com/78117204/166503367-f7dc23c9-4719-4b66-b741-f8023018970c.jpg)
+
+
+First Photo for the Ute Creation Story:
+
+![ui](https://user-images.githubusercontent.com/78117204/166503402-910859cd-64b2-4e16-8144-d1a7bc2a58f0.jpg)
+
+
+First Photo for the Babylonian Creation Story:
+
+![bi](https://user-images.githubusercontent.com/78117204/166503430-19675cc6-7e80-45df-9ef7-75e92790f1c7.jpg)
 
 
 ## Technical Notes
