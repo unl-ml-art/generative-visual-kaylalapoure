@@ -31,6 +31,7 @@ Each text block was broken down into logical breaks in the sentences."
 ## Code
 
 Jupyter Notebook: https://crane-ood.unl.edu/node/c2613.crane.hcc.unl.edu/4530/lab/tree/ml-art-code/clip-biggan/text_to_image_CLIP_BigGAN.ipynb
+
 It also is included in the files
 
 ## Results
